@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36930.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinterestBoardDownloader", "PinterestBoardDownloader.csproj", "{5C2762E4-1E32-4F8C-8935-50A2501221EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C2762E4-1E32-4F8C-8935-50A2501221EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C2762E4-1E32-4F8C-8935-50A2501221EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C2762E4-1E32-4F8C-8935-50A2501221EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C2762E4-1E32-4F8C-8935-50A2501221EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E1E5332-BE59-4BA3-87A1-43F7288F6332}
+	EndGlobalSection
+EndGlobal
