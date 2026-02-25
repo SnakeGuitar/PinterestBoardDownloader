@@ -1,12 +1,11 @@
 ﻿using System.Windows;
 using Microsoft.Win32;
 
-namespace PinterestBoardDownloader
+namespace PinterestBoardDownloader.View
 {
     public partial class MainWindow : Window
     {
         private readonly MainWindowViewModel _vm;
-
         public MainWindow()
         {
             InitializeComponent();
